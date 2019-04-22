@@ -14,7 +14,7 @@
 * [Python语言程序设计](https://www.icourse163.org/learn/BIT-268001?tid=1206073223)
   * 2019.03.11 - 2019.06.03
 * [Python网络爬虫与信息提取](https://www.icourse163.org/learn/BIT-268001?tid=1206093223)
-  * 2019.03.25 - 2019.5.20
+  * 2019.03.25 - 2019.05.20
 * [Python数据分析与展示](https://www.icourse163.org/learn/BIT-1001870002?tid=1206192225)
   * 2019.04.21 - 2019.06.17
 
