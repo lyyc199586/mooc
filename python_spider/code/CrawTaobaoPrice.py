@@ -34,7 +34,7 @@ def printGoodsList(ilt):
 
 def main():
     goods = '书包'
-    depth = 2 # 搜索深度
+    depth = 3 # 搜索深度
     start_url = 'https://s.taobao.com/search?q=' + goods
     infoList = []
     for i in range(depth):
