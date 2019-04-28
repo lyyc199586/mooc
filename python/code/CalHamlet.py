@@ -1,6 +1,6 @@
 # CalHamlet.py
 def getText():
-    txt = open("./python/code/hamlet.txt", "r").read()
+    txt = open("hamlet.txt", "r").read()
     txt = txt.lower()
     for ch in '!"#$%&()*+,-./:;<=>?@[\\]^_‘{|}~':
         txt = txt.replace(ch, " ") # 将文本中特殊字符替换为空格

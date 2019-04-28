@@ -1,6 +1,6 @@
 # CalTreeKingdoms.py
 import jieba
-txt = open("./python/code/threekingdoms.txt", "r", encoding="utf-8").read()
+txt = open("threekingdoms.txt", "r", encoding="utf-8").read()
 excludes = {"将军", "却说", "荆州", "二人", "不可", "不能", "如此", "商议", "如何", "主公", "军士", "左右", "军马", "引兵", "次日", "大喜", "天下", "东吴", "于是", "今日", "不敢", "魏兵", "陛下", "一人", "都督", "人马", "不知","汉中","只见","众将","后主","蜀兵","上马","大叫"}
 
 words = jieba.lcut(txt)
